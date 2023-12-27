@@ -15,9 +15,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   -->
 <h2>📺Certifications</h2>
-- [Certified Ethical Hacker](https://pdf.ac/3aYK08)
-
+ Certified Ethical Hacker(CEH)
 <h2>📺 Popular Blogs</h2>
+- [Unveiling Cybersecurity Strengths: A Guide to Vulnerability Management with Nessus](https://medium.com/@nikitarani0110/unveiling-cybersecurity-strengths-a-guide-to-vulnerability-management-with-nessus-93a2cf9026dc)
 <!--
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
