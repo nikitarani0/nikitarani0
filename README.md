@@ -1,8 +1,7 @@
 <h1>Hi, I'm Nikita! <br/><a href="https://github.com/nikitarani0">Programmer</a>, <a href="https://www.linkedin.com/in/nikita-rani-a9686b217/">Cybersecurity Professional</a>, <a href="https://medium.com/@nikitarani0110">Content Creator</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- <b>PowerShell</b>
-  - [Security Information and Event Management](https://github.com/nikitarani0/AzureSIEM-Lab)
+
   <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -10,8 +9,12 @@
   -->
 - <b>Python</b>
   - [BlackHat python programming](https://github.com/nikitarani0/blackhatpython)
+- <b>PowerShell</b>
+  - [Security Information and Event Management](https://github.com/nikitarani0/AzureSIEM-Lab) 
 <h2>📺Certifications</h2>
-CEH, CompTIA Security+
+
+- <b>CEH</b>
+- <b>CompTIA Security+</b>
 <!--
 <h2>📺 Popular Blogs</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
